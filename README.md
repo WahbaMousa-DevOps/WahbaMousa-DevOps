@@ -6,14 +6,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahbamousa)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AIOps-Vision)
 
-## 🧭 About Wahba
+## 🧭 About Wahba  
 I'm a results-driven DevOps leader. I've helped platforms serving **300,000+ users** achieve:
-- ✅ **99.99% uptime** through full CI/CD automation and GitOps adoption
-- 💰 **30% cost savings ($200K/year)** via Terraform/Ansible provisioning and FinOps practices
-- 🔐 **80% reduction in vulnerabilities** using Shift-Left, RBAC, and GitHub Advanced Security
-- ⚙️ **60% faster delivery cycles** through intelligent pipelines and IaC
-- 🔁 Mentored cross-functional teams to adopt reusable IaC, CI/CD, and DevSecOps standards
-- 🧰 Built knowledge bases and onboarding playbooks that reduced team ramp-up time by 50%
+- ✅ **99.99% service reliability and uptime** through full CI/CD automation and GitOps adoption  
+- 💰 **30% cost savings ($200K/year)** by optimizing pipelines, scaling licenses efficiently, and automating cloud resources  
+- 🔐 **80% reduction in vulnerabilities** through Shift-Left security, RBAC, and GitHub Advanced Security  
+- ⚙️ **60% faster deployments** via intelligent CI/CD workflows and GitOps integration, reducing delivery cycles and manual effort  
+- ⚡ **40% boost in system performance** by refining deployment workflows and tuning infrastructure resources proactively  
+- 🔁 **30% increase in team satisfaction** by mentoring cross-functional teams and standardizing reusable IaC, CI/CD, and DevSecOps practices  
+- 🧰 **50% improvement in team enablement** through building internal knowledge hubs, automation-driven guides, and shared DevOps playbooks
 
 ## 📦 Wahba Organization [AION](https://github.com/AIOps-Vision):
 - [📘 **Mastering Basics in C++ for Beginners**](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners)
