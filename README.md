@@ -18,8 +18,8 @@ I'm a results-driven DevOps leader. I've helped platforms serving **300,000+ use
 
 ## 📦 Wahba Organization [AION](https://github.com/AIOps-Vision):
 - [📘 **Mastering Basics in C++ for Beginners**](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners)
-- [📱 **Shop-all E-Commerce App**](https://github.com/YOUR-FLUTTER-REPO)
-- [🛠️ **Production-Grade DevOps Challenges**](https://github.com/YOUR-DEVOPS-REPO)
+- [📱 **Shop-all E-Commerce App**](https://github.com/AIOps-Vision/Shop-all-E-Commerce-App)
+- [🛠️ **Production-Grade DevOps Challenges**](https://github.com/AIOps-Vision/Production-Grade-DevOps-Challenges)
 
 ## 💻 Languages and DevOps Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahbaMousa-DevOps&layout=compact&langs_count=10&theme=default" />
