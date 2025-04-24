@@ -22,6 +22,7 @@ I'm a results-driven DevOps leader. I've helped platforms serving **300,000+ use
 - [🛠️ **Production-Grade DevOps Challenges**](https://github.com/AIOps-Vision/Production-Grade-DevOps-Challenges)
 
 ## 💻 Languages and DevOps Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahbaMousa-DevOps&layout=compact&langs_count=20&theme=default&include_forks=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahbaMousa-DevOps&layout=compact&langs_count=20&theme=radical&hide_border=true&include_forks=true" />
+
 ## 📈 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=WahbaMousa-DevOps&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=WahbaMousa-DevOps&show_icons=true&theme=radical&hide_border=truet&include_forks=true" />
