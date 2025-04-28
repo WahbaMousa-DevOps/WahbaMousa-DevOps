@@ -16,7 +16,7 @@ I'm a results-driven DevOps leader. I've helped platforms serving **300,000+ use
 - 🔁 **30% increase in team satisfaction** by mentoring cross-functional teams and standardizing reusable IaC, CI/CD, and DevSecOps practices  
 - 🧰 **50% improvement in team enablement** through building internal knowledge hubs, automation-driven guides, and shared DevOps playbooks
 
-## 📦 Wahba Organization [AION](https://github.com/AIOps-Vision):
+## 📦 [AION](https://github.com/AIOps-Vision) Organization:
 - [📘 **Mastering Basics in C++ for Beginners**](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners)
 - [📱 **Shop-all E-Commerce App**](https://github.com/AIOps-Vision/Shop-all-E-Commerce-App)
 - [🛠️ **Production-Grade DevOps Challenges**](https://github.com/AIOps-Vision/Production-Grade-DevOps-Challenges)
