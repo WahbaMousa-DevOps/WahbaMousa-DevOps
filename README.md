@@ -20,6 +20,7 @@ I'm a results-driven DevOps leader. I've helped platforms serving **300,000+ use
 - [📘 **Mastering Basics in C++ for Beginners**](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners)
 - [📱 **Shop-all E-Commerce App**](https://github.com/AIOps-Vision/Shop-all-E-Commerce-App)
 - [🛠️ **Production-Grade DevOps Challenges**](https://github.com/AIOps-Vision/Production-Grade-DevOps-Challenges)
+- [🧠 **Cloud-Fundamentals**](https://github.com/AIOps-Vision/Cloud-Fundamentals)
 
 ## 📈 GitHub Contributions
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WahbaMousa-DevOps&theme=redical&hide_border=true)
