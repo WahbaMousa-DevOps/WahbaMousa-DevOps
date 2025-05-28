@@ -31,5 +31,3 @@ I'm a results-driven DevOps leader. I've helped platforms serving **300,000+ use
 
 ## 💻 Languages and DevOps Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahbamousa-DevOps&layout=compact&langs_count=20&theme=radical&hide_border=true&include_forks=true&count_private=true" />
-
-### 🌐 Visit my full DevOps portfolio: [aiopsvision.com](https://aiopsvision.com)
