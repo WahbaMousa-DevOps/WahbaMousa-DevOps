@@ -8,7 +8,7 @@
 [![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=google-chrome&logoColor=green)](https://wahba.aiopsvision.com)
 
 ## 🧭 About Wahba  
-I'm a results-driven DevOps leader with a unique blend of deep technical expertise and strategic leadership, serving over 300,000 global users across three platforms:
+I'm a results-driven DevOps leader, serving over 300,000 global users across three platforms:
 - ✅ **99.99% service reliability and uptime** through full CI/CD automation and GitOps adoption  
 - 💰 **30% cost savings ($200K/year)** by optimizing pipelines, scaling licenses efficiently, and automating cloud resources  
 - 🔐 **80% reduction in vulnerabilities** through Shift-Left security, RBAC, and GitHub Advanced Security  
