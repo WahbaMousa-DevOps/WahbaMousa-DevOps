@@ -23,9 +23,6 @@ I'm a results-driven DevOps leader, serving over 300,000 global users across thr
 - [🛠️ **Production-Grade DevOps Challenges**](https://github.com/AIOps-Vision/Production-Grade-DevOps-Challenges)
 - [🧠 **Cloud-Fundamentals**](https://github.com/AIOps-Vision/Cloud-Fundamentals)
 
-## 📈 GitHub Contributions
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=WahbaMousa-DevOps&theme=redical&hide_border=true)
-
 ## 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=wahbamousa-DevOps&show_icons=true&theme=radical&hide_border=true&include_forks=true&count_private=true" />
 
