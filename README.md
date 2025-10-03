@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Certifications.png" alt="My Certifications" width="90%" height="auto"/>
+  <img src="./Certifications.png" alt="DevOps/SRE Lead" width="90%" height="auto"/>
 </p>
 
 [![Gmail](https://img.shields.io/badge/Gmail-181717?style=flat-square&logo=gmail&logoColor=green)](mailto:engineerwahba@gmail.com)
