@@ -8,14 +8,14 @@
 [![Website](https://img.shields.io/badge/Website-181717?style=flat-square&logo=google-chrome&logoColor=green)](https://wahba.aiopsvision.com)
 
 ## 🧭 About Wahba  
-I'm a results-driven DevOps leader, serving over 300,000 global users across three platforms:
-- ✅ **99.99% service reliability and uptime** through full CI/CD automation and GitOps adoption  
-- 💰 **30% cost savings ($200K/year)** by optimizing pipelines, scaling licenses efficiently, and automating cloud resources  
-- 🔐 **80% reduction in vulnerabilities** through Shift-Left security, RBAC, and GitHub Advanced Security  
-- ⚙️ **60% faster deployments** via intelligent CI/CD workflows and GitOps integration, reducing delivery cycles and manual effort  
-- ⚡ **40% boost in system performance** by refining deployment workflows and tuning infrastructure resources proactively  
-- 🔁 **30% increase in team satisfaction** by mentoring cross-functional teams and standardizing reusable IaC, CI/CD, and DevSecOps practices  
-- 🧰 **50% improvement in team enablement** through building internal knowledge hubs, automation-driven guides, and shared DevOps playbooks
+I'm a Cloud Security Architect at Microsoft and Security Architecture & Engineering Leader with 12+ years of experience across cloud security, DevSecOps, SRE, platform engineering, and enterprise cloud architecture:
+- 🔐 **40 enterprise cloud security assessments** delivered across global customer environments
+- 🛡️ **150+ security misconfigurations and control gaps** identified and guided through remediation
+- 📈 **Microsoft Secure Score improved from approximately 40% to 95% on average** across assessed customer environments
+- ⚠️ **70% average reduction in high-priority security findings** through risk-based remediation and security hardening
+- 🧭 **Security architecture and advisory** across Zero Trust, IAM, Microsoft Defender, Microsoft Sentinel, Microsoft Purview, and cloud governance
+- ⚙️ **12+ years of engineering experience** spanning cloud security, DevSecOps, SRE, platform engineering, and multi-cloud architecture
+- 👥 **Leadership at scale**, including DevOps CoP/CoE leadership, engineering mentorship, and platforms supporting 300,000+ users
 
 ## 📦 [AION](https://github.com/AIOps-Vision) Organization:
 - [📘 **Mastering Basics in C++ for Beginners**](https://github.com/AIOps-Vision/Mastering-Basics-in-Cpp-for-Beginners)
@@ -26,5 +26,5 @@ I'm a results-driven DevOps leader, serving over 300,000 global users across thr
 ## 📈 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=wahbamousa-DevOps&show_icons=true&theme=radical&hide_border=true&include_forks=true&count_private=true" />
 
-## 💻 Languages and DevOps Stats
+## 💻 Languages & Engineering Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahbamousa-DevOps&layout=compact&langs_count=20&theme=radical&hide_border=true&include_forks=true&count_private=true" />
